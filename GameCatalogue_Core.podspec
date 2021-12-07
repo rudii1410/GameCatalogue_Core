@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "GameCatalogue_Core"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "Game Catalogue Core Module"
   spec.description  = "Core module for main project https://github.com/rudii1410/Game-Catalogue"
   spec.license      = { :type => "GNU", :file => "LICENSE" }
